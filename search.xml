@@ -8,8 +8,14 @@
       <link href="/2026/03/16/Hello,Hexo/"/>
       <url>/2026/03/16/Hello,Hexo/</url>
       
-        <content type="html"><![CDATA[<h1 id="Hello-这是我的第一篇文章"><a href="#Hello-这是我的第一篇文章" class="headerlink" title="Hello,这是我的第一篇文章"></a>Hello,这是我的第一篇文章</h1><h2 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h2><p>基于Hexo搭建 + Butterfly 主题 + GitHub Pages托管的个人博客网站</p><h2 id="网站初衷"><a href="#网站初衷" class="headerlink" title="网站初衷"></a>网站初衷</h2><ul><li>✨ <strong>记录与沉淀</strong>：记录笔记(也许懒得上传),更多记录学习生活,想找个地方好好记录下来，既是给自己留档，也希望能帮到偶尔刷到的朋友；</li><li>🛠️ <strong>技术实践</strong>：从 Hexo 环境搭建、Butterfly 主题定制（比如改背景、调字体、加粒子特效），到页面样式优化，一点点把「空白模板」改成自己喜欢的样子，本身也是件超有成就感的事；</li><li>☁️ <strong>专属小天地</strong>：没有算法、没有推送，就想安安静静待着，分享我喜欢的东西——可能是编程技巧、动漫壁纸，也可能只是日常的碎碎念。</li></ul><h2 id="网站内容"><a href="#网站内容" class="headerlink" title="网站内容"></a>网站内容</h2><p>暂无,后期会慢慢更新笔记,项目,继续新增魔改小功能</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Hello-这是我的第一篇文章"><a href="#Hello-这是我的第一篇文章" class="headerlink" title="Hello,这是我的第一篇文章"></a>Hello,这是我的第一篇文章</h1><h2 id="网站简介"><a href="#网站简介" class="headerlink" title="网站简介"></a>网站简介</h2><p>基于Hexo搭建 + Butterfly 主题 + GitHub Pages托管的个人博客网站</p><h2 id="网站初衷"><a href="#网站初衷" class="headerlink" title="网站初衷"></a>网站初衷</h2><ul><li>✨ <strong>记录与沉淀</strong>：记录笔记(也许懒得上传),更多记录学习生活,想找个地方好好记录下来，既是给自己留档，也希望能帮到偶尔刷到的朋友；</li><li>🛠️ <strong>技术实践</strong>：从 Hexo 环境搭建、Butterfly 主题定制（比如改背景、调字体、加粒子特效），到页面样式优化，一点点把「空白模板」改成自己喜欢的样子，本身也是件超有成就感的事；   </li><li>☁️ <strong>专属小天地</strong>：没有算法、没有推送，就想安安静静待着，分享我喜欢的东西——可能是编程技巧、动漫壁纸，也可能只是日常的碎碎念。</li></ul><h2 id="网站内容"><a href="#网站内容" class="headerlink" title="网站内容"></a>网站内容</h2><p>暂无,后期会慢慢更新笔记,项目,继续新增魔改小功能</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 指南 </category>
+          
+      </categories>
       
       
     </entry>
@@ -42,9 +48,20 @@
     
     
     <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -64,9 +81,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
